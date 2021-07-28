@@ -11,32 +11,33 @@ Repositório para praticar todo conteúdo absorvido durante o curso ["Padrões d
 ### Links disponíveis para acessar o conteúdo do aprendizado:
 
 ​
-- ### [Revisão de Programação Orientada a Objetos]()
 
-- ### [Introdução aos padrões de projeto]()
+- ### [Revisão de Programação Orientada a Objetos](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/RevisaoPOO.md)
 
-- ### [Introdução aos padrões de projetos estruturais]()
+- ### [Introdução aos padrões de projeto](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/IntroDesignPatterns.md)
 
-- ### [Introdução aos padrões de projetos comportamentais]()
+- ### [Introdução aos padrões de projetos estruturais](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/IntroProjEstruturais.md)
 
-- ### [Introdução aos padrões de projetos compostos]()
+- ### [Introdução aos padrões de projetos comportamentais](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/IntroProjComportamentais.md)
 
-- ### [Singleton]()
+- ### [Introdução aos padrões de projetos compostos](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/IntroProjCompostos.md)
 
-- ### [Factory]()
+- ### [Singleton](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/singleton/Singleton.md)
 
-- ### [Facade]()
+- ### [Factory](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/factory/Factory.md)
 
-- ### [Proxy]()
+- ### [Facade](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/facade/Facade.md)
 
-- ### [Observer]()
+- ### [Proxy](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/proxy/Proxy.md)
 
-- ### [Command]()
+- ### [Observer](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/observer/Observer.md)
 
-- ### [Template Method]()
+- ### [Command](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/command/Command.md)
 
-- ### [State]()
+- ### [Template Method](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/template_method/Template%20Method.md)
 
-- ### [Model-View-Controller (MVC)]()
+- ### [State](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/state/State.md)
 
-- ### [Antipadrões]()
+- ### [Model-View-Controller (MVC)](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/model-view-controller/MVC.md)
+
+- ### [Antipadrões](https://github.com/bitebait/udemy-design-patterns-course/blob/bbcfc6d680a14c19482d09cc8e1a8172b991dd80/antipadroes/Antipadr%C3%B5es.md)
